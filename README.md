@@ -1,0 +1,2 @@
+# Softuniada
+SoftUni programming competition
